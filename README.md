@@ -1,28 +1,8 @@
 # weather-dashboard-day-planner
 
-# <Your-Project-Title>
-
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
-## Installation
-
-
+I was motivated to learn how to add a third party API to my website so that I can do so in the future to build and protect my site. I found this very interesting because APIs are very useful for SaaS. 
 
 ## Usage
 
