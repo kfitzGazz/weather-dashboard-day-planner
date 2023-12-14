@@ -53,7 +53,7 @@ function createCityBtn() {
 }
 
 
-//This function displays weather data on the page
+//This displays weather data on the page
 function displayWeather(cityName) {
     var currentWeatherURL = "https://api.openweathermap.org/data/2.5/weather?q=" + cityName + "&appid=" + APIKey + "&units=imperial";
 
